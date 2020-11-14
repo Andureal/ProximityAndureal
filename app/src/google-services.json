@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "981038862059",
+    "firebase_url": "https://bait2123-202010-03.firebaseio.com",
+    "project_id": "bait2123-202010-03",
+    "storage_bucket": "bait2123-202010-03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981038862059:android:c15bd232decf932a9738ae",
+        "android_client_info": {
+          "package_name": "com.example.openthedoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66wJwuEBW2m6h8rLwJnFK60sHFgBYc4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981038862059:android:f70843decf49ba789738ae",
+        "android_client_info": {
+          "package_name": "com.example.proximity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66wJwuEBW2m6h8rLwJnFK60sHFgBYc4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981038862059:android:43f17d4d119c0b539738ae",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.ls_as_pir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66wJwuEBW2m6h8rLwJnFK60sHFgBYc4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981038862059-loq2cij2pg0nu3790ptieje5j6dnrvpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
